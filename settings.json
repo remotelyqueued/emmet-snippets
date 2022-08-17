@@ -45,13 +45,11 @@
     "terminal.integrated.fontWeight": "normal",
     "terminal.integrated.fontSize": 12,
 
-    "workbench.colorTheme": "Community Material Theme Darker",
+    "workbench.colorTheme": "oh-lucy",
     "workbench.iconTheme": "eq-material-theme-icons",
     "workbench.colorCustomizations": {
         "minimap.background": "#22262e00"
     },
-
-    "window.menuBarVisibility": "compact",
     "window.zoomLevel": 1,
 
     "[css]": {
