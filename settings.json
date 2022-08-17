@@ -10,9 +10,10 @@
     "editor.fontWeight": "600",
     "editor.quickSuggestionsDelay": 3,
 
-    "emmet.extensionsPath": [
-        "C:\\Users\\ryanw\\Documents\\Github\\emmet-snippets\\"
-    ],
+    // "emmet.extensionsPath": [
+    //     "C:\\Users\\ryanw\\Documents\\Github\\emmet-snippets\\"
+    // ],
+    "emmet.extensionsPath": ["/home/ryan/Downloads/repos/emmet-snippets/"],
     "emmet.showSuggestionsAsSnippets": true,
     "emmet.triggerExpansionOnTab": true,
     "emmet.useInlineCompletions": true,
@@ -46,11 +47,12 @@
 
     "workbench.colorTheme": "Community Material Theme Darker",
     "workbench.iconTheme": "eq-material-theme-icons",
-
     "workbench.colorCustomizations": {
         "minimap.background": "#22262e00"
     },
+
     "window.menuBarVisibility": "compact",
+    "window.zoomLevel": 1,
 
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
