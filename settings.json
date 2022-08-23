@@ -2,14 +2,13 @@
     "editor.minimap.renderCharacters": false,
     "editor.mouseWheelZoom": true,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "'Liga Roboto Mono', 'Courier New', monospace",
+    "editor.fontFamily": "LigaPragmataProMono Nerd Font",
     "editor.rulers": [80, 120],
     "editor.linkedEditing": true,
     "editor.hover.delay": 2000,
     "editor.tabCompletion": "on",
     "editor.fontWeight": "600",
     "editor.quickSuggestionsDelay": 3,
-
     // "emmet.extensionsPath": [
     //     "C:\\Users\\ryanw\\Documents\\Github\\emmet-snippets\\"
     // ],
@@ -19,8 +18,9 @@
     "emmet.useInlineCompletions": true,
 
     "files.autoSave": "afterDelay",
+
     "files.associations": {
-        "*.xml": "html",
+        // "*.xml": "html",
         "*.svg": "html"
     },
 
@@ -31,7 +31,7 @@
     "livePreview.showServerStatusNotifications": false,
     "livePreview.openPreviewTarget": "External Browser",
 
-    "npm.keybindingsChangedWarningShown": true,
+    // "npm.keybindingsChangedWarningShown": true,
 
     "prettier.arrowParens": "avoid",
     "prettier.jsxSingleQuote": true,
@@ -42,15 +42,14 @@
 
     "telemetry.telemetryLevel": "off",
 
-    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeight": "bold",
     "terminal.integrated.fontSize": 12,
 
-    "workbench.colorTheme": "oh-lucy",
+    "workbench.colorTheme": "GitHub Dark",
     "workbench.iconTheme": "eq-material-theme-icons",
     "workbench.colorCustomizations": {
         "minimap.background": "#22262e00"
     },
-    "window.zoomLevel": 1,
 
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -66,5 +65,14 @@
     },
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+
+    "redhat.telemetry.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "terminal.integrated.lineHeight": 1.0,
+    "git.confirmSync": false,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontWeightBold": "bold",
+    "oneDarkPro.bold": true
+    // "editor.letterSpacing": -0.6
 }
