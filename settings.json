@@ -74,6 +74,6 @@
     "window.zoomLevel": 1,
     "terminal.integrated.fontWeightBold": "bold",
     "oneDarkPro.bold": true,
-    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.emmetCompletions": true
     // "editor.letterSpacing": -0.4,
 }
